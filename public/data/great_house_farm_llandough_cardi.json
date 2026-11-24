@@ -21,14 +21,16 @@
    "from_": "2026-09-02",
    "due": "2026-09-23",
    "answered": null,
-   "result": "missed (no reply)"
+   "result": "promise passed; no reply recorded by 24 Nov 2026",
+   "type": "promised"
   },
   {
    "label": "Response (20 working days)",
    "from_": "2026-09-02",
    "due": "2026-09-30",
    "answered": null,
-   "result": "missed (no reply)"
+   "result": "no reply recorded by 24 Nov 2026",
+   "type": "statutory"
   }
  ],
  "counts": {

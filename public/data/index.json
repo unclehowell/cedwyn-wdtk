@@ -1,23 +1,31 @@
 {
   "schema": "ghf-wdtk-index/1",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "stats": {
-    "requests": 7,
-    "messages": 43,
-    "sent": 19,
-    "received": 24,
-    "attachments": 17,
-    "refusals": 3,
+    "requests": 8,
+    "messages": 56,
+    "sent": 27,
+    "received": 29,
+    "attachments": 20,
+    "refusals": 4,
     "exemptions": [
       "s.32",
       "s.23(5)",
       "s.23(5)"
     ],
     "not_held": 8,
-    "missed": 6,
-    "deadlines": 16,
-    "open_days": 254,
-    "ack": 12
+    "open_days": 424,
+    "ack": 14,
+    "as_at": "2026-11-24",
+    "promised_dates_passed_unanswered": 1,
+    "threads_with_reply_beyond_acknowledgement": 6,
+    "response_dates_assessed": 8,
+    "response_dates_reply_in_time": 5,
+    "response_dates_no_answer_by_due_date": 3,
+    "response_dates_not_assessed": 2,
+    "response_dates_not_applicable": 1,
+    "internal_review_reply_within_guidance_period": 2,
+    "internal_review_no_reply_or_reply_after_guidance_period": 3
   },
   "threads": [
     {
@@ -92,11 +100,28 @@
       "ev": "EV-0606",
       "authority": "Llandough Community Council",
       "title": "Meeting of 22 October 2026: remote-only arrangements, outstanding questions and the Great House Farm (Tŷ Mawr) records",
-      "status": "awaiting response",
+      "status": "delayed",
       "page": "/r/meeting_of_22_october_2026_remot/",
       "json": "/data/meeting_of_22_october_2026_remot.json",
       "archive": "https://wayback.bucklerfamily.estate/text/evidence/wdtk/2026-10-20_wdtk-lcc_meeting-of-22-october-2026-remot.json"
+    },
+    {
+      "slug": "great_house_farm_llandough_sir_h",
+      "id": null,
+      "ev": null,
+      "authority": "Ministry of Housing, Communities and Local Government",
+      "title": "Great House Farm, Llandough (Sir Herbert of Swansea to Vaughan)",
+      "status": "decision received",
+      "page": "/r/great_house_farm_llandough_sir_h/",
+      "json": "/data/great_house_farm_llandough_sir_h.json",
+      "archive": null
     }
   ],
-  "statement": ""
+  "statement": "",
+  "notes": [
+    "refusals includes the Ministry of Housing, Communities and Local Government thread under the existing definition 'refused to treat it as a request'. This is a derived count; WhatDoTheyKnow has not classified that thread yet.",
+    "Counts refreshed 24 November 2026 from the public WhatDoTheyKnow threads. open_days = 157 (MoJ IR from 20 Jun) + 95 (Vale from 21 Aug) + 83 (TNA from 2 Sep) + 54 (NPCC FOI 3203 from 1 Oct) + 35 (Llandough from 20 Oct) calendar days to 24 November 2026: the total age of unanswered requests, not days past a deadline. An earlier snapshot gave 254 on 21 October 2026.",
+    "threads_with_reply_beyond_acknowledgement counts threads where the body sent something other than an acknowledgement or a request for clarification. That includes the Ministry of Housing, Communities and Local Government validity decision, which is not an answer to a request for recorded information.",
+    "Response dates are the 20 working day period in section 10 of the Freedom of Information Act counted from each request message. The counts record only whether a reply is on the thread by the due date, not whether the request was valid or the clock was running: 5 with a reply in time, 3 with no answer by the due date (Vale of Glamorgan Council, The National Archives, NPCC FOI 3203), 2 not assessed (Llandough Community Council; Ministry of Housing, Communities and Local Government, where whether a clock started is disputed), 1 not applicable (the NPCC first letter, whose 2 Sep message was an automated receipt). Internal review periods are guidance in the code of practice, not statute: reply within the period for 2, none or later for 3 (MoJ and Vale: no review outcome recorded; MoD: reply recorded 10 Oct, after the period, with a separate 5 Aug subject access identity request not counted). The National Archives promised date of 23 September passed with no reply recorded."
+  ]
 }

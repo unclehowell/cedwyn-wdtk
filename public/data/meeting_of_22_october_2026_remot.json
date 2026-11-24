@@ -6,26 +6,28 @@
  "title": "Meeting of 22 October 2026: remote-only arrangements, outstanding questions and the Great House Farm (Tŷ Mawr) records",
  "authority": "Llandough Community Council",
  "url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot",
- "wdtk_status": "Awaiting response",
- "status": "awaiting response",
+ "wdtk_status": "Delayed (WhatDoTheyKnow: response due by 17 November 2026)",
+ "status": "delayed",
  "references": [],
  "sent": "2026-10-20",
- "last_message": "2026-10-20",
- "outcome": "Sent 20 October 2026; response due by 17 November 2026.",
+ "last_message": "2026-11-23",
+ "outcome": "Sent 20 October 2026. Response due by 17 November 2026; WhatDoTheyKnow shows the response as delayed. The Council has sent a reply (11 November) and two holding acknowledgements (17 and 18 November); no full answer to this request's questions is recorded on the thread as at 24 November 2026.",
  "deadlines": [
   {
    "label": "Response (20 working days)",
    "from_": "2026-10-20",
    "due": "2026-11-17",
    "answered": null,
-   "result": "open"
+   "result": "not assessed: a reply was sent on 11 Nov and holding acknowledgements on 17 and 18 Nov; WhatDoTheyKnow shows the thread as delayed",
+   "type": "statutory"
   }
  ],
  "counts": {
-  "messages": 1,
-  "sent": 1,
-  "received": 0,
-  "attachments": 0
+  "messages": 9,
+  "sent": 6,
+  "received": 3,
+  "attachments": 1,
+  "acknowledgements": 2
  },
  "messages": [
   {
@@ -39,11 +41,116 @@
    "body_public": null,
    "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2171850",
    "attachments": []
+  },
+  {
+   "n": 2,
+   "wdtk_anchor": "outgoing-2176015",
+   "direction": "sent",
+   "date": "2026-10-27",
+   "from": "Requester",
+   "summary": "Update to the public record after the 22 October meeting: draft minutes with the requester's proposed additions (attendance, public participation), and a note about the Council website's expired security certificate.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2176015",
+   "attachments": []
+  },
+  {
+   "n": 3,
+   "wdtk_anchor": "outgoing-2185882",
+   "direction": "sent",
+   "date": "2026-11-11",
+   "from": "Requester",
+   "summary": "Requester update: asks the Council to reconcile two statements about whether it holds further Great House Farm records beyond the minute books deposited with Glamorgan Archives in 2002. The 17 November deadline is left open.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2185882",
+   "attachments": []
+  },
+  {
+   "n": 4,
+   "wdtk_anchor": "incoming-3626040",
+   "direction": "received",
+   "date": "2026-11-11",
+   "from": "Llandough Community Council (Clerk)",
+   "summary": "Clerk's reply with a Word document attached. The attachment's contents are not summarised here.",
+   "response_class": "reply",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#incoming-3626040",
+   "attachments": [
+    {
+     "title": "Word document attached to the 11 November reply (file name: Internal Review of FOI Request November 2026.docx)",
+     "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "original_filename": "Internal Review of FOI Request November 2026.docx",
+     "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot/response/3626040/attach/2/Internal%20Review%20of%20FOI%20Request%20November%202026.docx",
+     "note": "Attachment listed from the public WhatDoTheyKnow page; its contents were not summarised here."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "wdtk_anchor": "outgoing-2187940",
+   "direction": "sent",
+   "date": "2026-11-14",
+   "from": "Requester",
+   "summary": "Consolidated follow-up on outstanding records; asks for one clear, documented response.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2187940",
+   "attachments": []
+  },
+  {
+   "n": 6,
+   "wdtk_anchor": "incoming-3632892",
+   "direction": "received",
+   "date": "2026-11-17",
+   "from": "Llandough Community Council (Clerk)",
+   "summary": "Holding acknowledgement: the councillors will consider the email and reply in the near future.",
+   "response_class": "acknowledgement only",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#incoming-3632892",
+   "attachments": []
+  },
+  {
+   "n": 7,
+   "wdtk_anchor": "outgoing-2190702",
+   "direction": "sent",
+   "date": "2026-11-17",
+   "from": "Requester",
+   "summary": "Outstanding matters in priority order: asks when the councillors will consider the 14 November email, and for status updates on separate requests that keep their original receipt dates.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2190702",
+   "attachments": []
+  },
+  {
+   "n": 8,
+   "wdtk_anchor": "incoming-3635042",
+   "direction": "received",
+   "date": "2026-11-18",
+   "from": "Llandough Community Council (Clerk)",
+   "summary": "Holding acknowledgement: the two 17 November emails will be considered by councillors on 19 November 2026 and a response given after that meeting.",
+   "response_class": "acknowledgement only",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#incoming-3635042",
+   "attachments": []
+  },
+  {
+   "n": 9,
+   "wdtk_anchor": "outgoing-2194714",
+   "direction": "sent",
+   "date": "2026-11-23",
+   "from": "Requester",
+   "summary": "Letter to the Clerk, Chair and councillors after the 18 November Full Council meeting: remote-only arrangements, outstanding procedural questions, and the Council's basis for its involvement with the land and the records showing how that position arose.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/meeting_of_22_october_2026_remot#outgoing-2194714",
+   "attachments": []
   }
  ],
  "archived": "2026-10-21",
  "statement": "",
  "site": "https://whatdotheyknow.bucklerfamily.estate/r/meeting_of_22_october_2026_remot/",
  "thread_json": "https://wayback.bucklerfamily.estate/text/evidence/wdtk/2026-10-20_wdtk-lcc_meeting-of-22-october-2026-remot.json",
- "wiki": "https://greathousefarmwiki.wordpress.com/evidence/ev-0606-whatdotheyknow-llandough-community-council-22-october-2026-meeting/"
+ "wiki": "https://greathousefarmwiki.wordpress.com/evidence/ev-0606-whatdotheyknow-llandough-community-council-22-october-2026-meeting/",
+ "checked": "2026-11-24"
 }

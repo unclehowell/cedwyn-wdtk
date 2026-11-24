@@ -1,0 +1,119 @@
+{
+ "schema": "ghf-wdtk-thread/1",
+ "id": null,
+ "ev": null,
+ "slug": "great_house_farm_llandough_sir_h",
+ "title": "Great House Farm, Llandough (Sir Herbert of Swansea to Vaughan)",
+ "authority": "Ministry of Housing, Communities and Local Government",
+ "url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h",
+ "wdtk_status": "Awaiting classification (WhatDoTheyKnow label, as at 24 November 2026)",
+ "status": "decision received",
+ "references": [
+  "FOI2026/36329",
+  "FOI2026/36556"
+ ],
+ "sent": "2026-11-20",
+ "last_message": "2026-11-23",
+ "outcome": "Two Department replies: on 20 November (FOI2026/36329) and 23 November 2026 (FOI2026/36556) it said it could not treat the request as one for recorded information. These are the Department's own decisions, not a records search result. WhatDoTheyKnow classification is still pending, so the page does not apply a WhatDoTheyKnow status. Internal review is offered by the Department within 40 working days of each reply; none has been requested on this thread.",
+ "deadlines": [
+  {
+   "label": "Response (20 working days)",
+   "from_": "2026-11-20",
+   "due": "2026-12-18",
+   "answered": "2026-11-20",
+   "result": "not assessed: the Department said it could not treat the request as a valid request, so whether and when a clock started is disputed",
+   "type": "statutory"
+  }
+ ],
+ "counts": {
+  "messages": 5,
+  "sent": 3,
+  "received": 2,
+  "attachments": 2
+ },
+ "messages": [
+  {
+   "n": 1,
+   "wdtk_anchor": "outgoing-2192796",
+   "direction": "sent",
+   "date": "2026-11-20",
+   "from": "Requester",
+   "summary": "FOI and policy enquiry to the Ministry of Housing, Communities and Local Government on BP Properties Ltd v Buckler [1987] EWCA Civ 2 and the Commonhold and Leasehold Reform Bill (clauses 176 to 180): asks for recorded information and, separately, a policy response from the officials responsible for the Bill.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h#outgoing-2192796",
+   "attachments": []
+  },
+  {
+   "n": 2,
+   "wdtk_anchor": "outgoing-2192797",
+   "direction": "sent",
+   "date": "2026-11-20",
+   "from": "Requester",
+   "summary": "Supplementary clarification attached to the original request: the requester is not asserting that BP lacked registered title, and sets out a narrower question on the legal effect of registration, possession and succession.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h#outgoing-2192797",
+   "attachments": []
+  },
+  {
+   "n": 3,
+   "wdtk_anchor": "incoming-3640196",
+   "direction": "received",
+   "date": "2026-11-20",
+   "from": "MHCLG FOIA Team",
+   "summary": "Reply FOI2026/36329 (letter attached): the Department says it is unable to treat the request as a valid request for recorded information on this occasion, points to Information Commissioner guidance on writing requests, and offers an internal review (not a statutory process) within 40 working days.",
+   "response_class": "not treated as a valid request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h#incoming-3640196",
+   "attachments": [
+    {
+     "title": "FOI2026 36329 (PDF)",
+     "mime": "application/pdf",
+     "original_filename": "FOI2026 36329.pdf",
+     "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h/response/3640196/attach/3/FOI2026%2036329.pdf",
+     "note": "Attachment listed from the public WhatDoTheyKnow page."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "wdtk_anchor": "outgoing-2193410",
+   "direction": "sent",
+   "date": "2026-11-20",
+   "from": "Requester",
+   "summary": "Restructured request in reply to FOI2026/36329: Part A asks only for recorded information already held; Part B is a separate policy request.",
+   "response_class": "request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h#outgoing-2193410",
+   "attachments": []
+  },
+  {
+   "n": 5,
+   "wdtk_anchor": "incoming-3642838",
+   "direction": "received",
+   "date": "2026-11-23",
+   "from": "MHCLG FOIA Team",
+   "summary": "Reply FOI2026/36556 (letter attached): the Department says it is unable to proceed because most of the request appears to ask for legal advice, directs Part B to its correspondence portal, invites a clearer resubmission defining the recorded information sought, and offers an internal review within 40 working days.",
+   "response_class": "not treated as a valid request",
+   "body_public": null,
+   "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h#incoming-3642838",
+   "attachments": [
+    {
+     "title": "FOI2026 36556 (PDF)",
+     "mime": "application/pdf",
+     "original_filename": "FOI2026 36556.pdf",
+     "wdtk_url": "https://www.whatdotheyknow.com/request/great_house_farm_llandough_sir_h/response/3642838/attach/3/FOI2026%2036556.pdf",
+     "note": "Attachment listed from the public WhatDoTheyKnow page."
+    }
+   ]
+  }
+ ],
+ "archived": null,
+ "checked": "2026-11-24",
+ "statement": "",
+ "site": "https://bucklerfamily.estate/wdtk/r/great_house_farm_llandough_sir_h/",
+ "thread_json": null,
+ "wiki": null,
+ "catalogue_note": "Catalogue identifiers (WB/EV) and an archived JSON copy are not yet assigned for this thread."
+}

@@ -20,14 +20,16 @@
    "from_": "2025-06-28",
    "due": "2025-07-25",
    "answered": "2025-07-17",
-   "result": "met"
+   "result": "reply recorded 17 Jul 2025, before the due date",
+   "type": "statutory"
   },
   {
    "label": "Internal review (40 working days, the outer limit in the code of practice)",
    "from_": "2026-06-20",
    "due": "2026-08-14",
    "answered": null,
-   "result": "missed (no reply)"
+   "result": "no reply recorded by 24 Nov 2026",
+   "type": "guidance"
   }
  ],
  "counts": {

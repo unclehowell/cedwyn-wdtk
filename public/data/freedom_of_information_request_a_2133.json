@@ -21,14 +21,16 @@
    "from_": "2026-02-01",
    "due": "2026-02-27",
    "answered": "2026-02-26",
-   "result": "met"
+   "result": "reply recorded 26 Feb 2026, before the due date",
+   "type": "statutory"
   },
   {
    "label": "Internal review (20 working days)",
    "from_": "2026-02-26",
    "due": "2026-03-26",
    "answered": "2026-03-26",
-   "result": "met"
+   "result": "reply recorded 26 Mar 2026, on the guidance date",
+   "type": "guidance"
   }
  ],
  "counts": {

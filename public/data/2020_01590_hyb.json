@@ -20,14 +20,16 @@
    "from_": "2026-08-21",
    "due": "2026-09-21",
    "answered": null,
-   "result": "missed (no reply)"
+   "result": "no answer recorded by the due date; the Council's first message (28 Sep, after the due date) asked for a reference, the requester answered on 2 Oct, and no further Council message is recorded",
+   "type": "statutory"
   },
   {
    "label": "Internal review (20 working days)",
    "from_": "2026-09-22",
    "due": "2026-10-20",
    "answered": null,
-   "result": "missed (no reply)"
+   "result": "no review outcome recorded by 24 Nov 2026 (the Council's only message, 28 Sep, asked for a reference and is not a review outcome)",
+   "type": "guidance"
   }
  ],
  "counts": {

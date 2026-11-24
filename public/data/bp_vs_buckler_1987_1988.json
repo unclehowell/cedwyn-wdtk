@@ -25,35 +25,40 @@
    "from_": "2026-09-02",
    "due": "2026-09-30",
    "answered": "2026-09-02",
-   "result": "met"
+   "result": "not applicable: NPCC said the letter contained no request for recorded information; the 2 Sep receipt was automated",
+   "type": "not_applicable"
   },
   {
    "label": "FOI 3156/2026 (20 working days)",
    "from_": "2026-09-06",
    "due": "2026-10-02",
    "answered": "2026-09-17",
-   "result": "met"
+   "result": "reply recorded 17 Sep 2026, before the due date",
+   "type": "statutory"
   },
   {
    "label": "IR 3176/2026 (20 working days)",
    "from_": "2026-09-17",
    "due": "2026-10-15",
    "answered": "2026-09-29",
-   "result": "met"
+   "result": "reply recorded 29 Sep 2026, within the guidance period",
+   "type": "guidance"
   },
   {
    "label": "FOI 3204/2026 (20 working days)",
    "from_": "2026-10-01",
    "due": "2026-10-29",
    "answered": "2026-10-09",
-   "result": "met"
+   "result": "reply recorded 9 Oct 2026, before the due date",
+   "type": "statutory"
   },
   {
    "label": "FOI 3203/2026 (20 working days)",
    "from_": "2026-10-01",
    "due": "2026-10-29",
    "answered": null,
-   "result": "open"
+   "result": "no reply recorded by 24 Nov 2026",
+   "type": "statutory"
   }
  ],
  "counts": {
